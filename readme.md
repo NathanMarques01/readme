@@ -2,11 +2,11 @@
 
 Estudante de Análise e Desenvolvimento de sistemas pela Universidade Anhembi Morumbi.
 
-🌐 Atualmente aprimorando minhas habilidades com tecnologias que conheço e estudando novas tecnologias.
+Atualmente aprimorando minhas habilidades com tecnologias que conheço e estudando novas ferramentas.
 
 ---
 
-## 🚀 Linguagens e Ferramentas
+## 🌐 Linguagens e Ferramentas
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -18,11 +18,8 @@ Estudante de Análise e Desenvolvimento de sistemas pela Universidade Anhembi Mo
 
 ---
 
-## ⭐ GitHub Stats
+## 🎯 Working
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=NathanMarques01&show_icons=true&theme=github_dark"
-  alt="GitHub Stats"
-  height="180"
-/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
 
